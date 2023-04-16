@@ -40,7 +40,6 @@ Here are my notes as I was going through the file, you can glean the exact chang
 
 *Gun Ace Changes*
 Outcast more in line with corsair, they were... formidable
-Minor nerfs
 
 *Gun mismatches*
 Fixed a bunch of "easy" pilots using "ace" gun ids and other similar problems
