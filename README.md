@@ -35,6 +35,19 @@ Server FLHook:
 Changelog
 -------
 
+v1.1 (in testing)
+Here are my notes as I was going through the file, you can glean the exact changes by using compare
+
+*Gun Ace Changes*
+Outcast more in line with corsair, they were... formidable
+Minor nerfs
+
+*Gun mismatches*
+Fixed a bunch of "easy" pilots using "ace" gun ids and other similar problems
+
+*Other*
+Most evade/buzz toward and so on seemed to match pilots, left alone.
+
 v1.0
 Implemented what I call HostileMOD. A server side data files tweak that:
 - Has enemy NPCs actually attack you, instead of waving at you for ease of RP reasons. The universe is a lot less tame now.
