@@ -35,8 +35,8 @@ Server FLHook:
 Changelog
 -------
 
-v1.1 (in testing)
-Here are my notes as I was going through the file, you can glean the exact changes by using compare
+v1.1
+Here are my notes as I was going through the pilot file, you can glean the exact changes by using compare
 
 *Gun Ace Changes*
 Outcast more in line with corsair, they were... formidable
